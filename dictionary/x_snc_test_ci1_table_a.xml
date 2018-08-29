@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="Table A" max_length="40" name="x_snc_test_ci1_table_a" type="collection">
+        <element label="C1" max_length="40" name="c1" type="string"/>
+    </element>
+</database>
